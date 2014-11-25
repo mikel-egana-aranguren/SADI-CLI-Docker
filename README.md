@@ -4,7 +4,7 @@ SADI-CLI-Docker
 About
 -----
 
-[SADI](http://sadiframework.org/content/about-sadi/) is a Web Services framework that allows to define Services that consume and output RDF very simply. That makes it very nice. On the other hand, [Docker](https://www.docker.com/whatisdocker/) is a sort of "virtualisation" environment that allows to deploy applications very easily, without dependencies, config etc. So I have created a Docker image for testing SADI services trhough the command line.   
+[SADI](http://sadiframework.org/content/about-sadi/) is a framework to define Semantic Web Services that consume and output RDF, making it very light. On the other hand, [Docker](https://www.docker.com/whatisdocker/) is a sort of "virtualisation" environment for deploying applications very easily, without configuration. So I have created a Docker image for testing SADI services through the command line.   
 
 Deploying the container
 -----------------------
